@@ -1,2 +1,0 @@
-# bizgeldik
-trial file
